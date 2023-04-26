@@ -1,0 +1,46 @@
+*Error - 2016-07-14 12:48:47 (Thursday)
+Exception : NoMethodError
+undefined method `atk' for #<Game_Event:0x10252f78>
+trace:
+["( Game_Interpreter )：1409:in `eval'", "( Game_Interpreter )：1409:in `eval'", "( Game_Interpreter )：1409:in `command_355'", "( WF-RGSS：MultiMessage マルチメッセージスクリプト )：4485:in `execute_command'", "( のびハザ：Run再定義 )：15:in `run'", "( 本棚：子インタプリタを保存(VXAce用) )：45:in `run'", "( Game_Interpreter )：59:in `block in create_fiber'"]
+*Error - 2016-09-01 19:05:50 (Thursday)
+Exception : NoMethodError
+undefined method `event' for nil:NilClass
+trace:
+["( TYPE74RX-T：セルフスイッチのリアルタイム操作(RGSS3) )：170:in `draw_item'", "( Window_Selectable )：409:in `block in draw_all_items'", "( Window_Selectable )：409:in `times'", "( Window_Selectable )：409:in `draw_all_items'", "( TYPE74RX-T：セルフスイッチのリアルタイム操作(RGSS3) )：148:in `refresh'", "( TYPE74RX-T：セルフスイッチのリアルタイム操作(RGSS3) )：109:in `initialize'", "( TYPE74RX-T：セルフスイッチのリアルタイム操作(RGSS3) )：261:in `new'", "( TYPE74RX-T：セルフスイッチのリアルタイム操作(RGSS3) )：261:in `create_map_info_window'", "( TYPE74RX-T：セルフスイッチのリアルタイム操作(RGSS3) )：243:in `start'", "( Scene_Base )：12:in `main'", "( SceneManager )：22:in `run'", "( WFRGSS共通実行スクリプト )：62:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "( WFRGSS共通実行スクリプト )：62:in `<main>'", "ruby:in `eval'"]
+*Error - 2016-09-11 08:32:51 (Sunday)
+Exception : BugDetected
+[FATAL] The invalidated exception was detected. 
+
+Exception:
+(eval):6: syntax error, unexpected tLBRACK, expecting ')'
+(eval):6: syntax error, unexpected ')', expecting $end
+trace:
+["( WFRGSS共通実行スクリプト )：80:in `rescue in <main>'", "( WFRGSS共通実行スクリプト )：140:in `<main>'", "ruby:in `eval'"]
+*Error - 2016-09-11 08:46:39 (Sunday)
+Exception : BugDetected
+[FATAL] The invalidated exception was detected. 
+
+Exception:
+(eval):6: syntax error, unexpected tLBRACK, expecting ')'
+(eval):6: syntax error, unexpected ')', expecting $end
+trace:
+["( WFRGSS共通実行スクリプト )：80:in `rescue in <main>'", "( WFRGSS共通実行スクリプト )：140:in `<main>'", "ruby:in `eval'"]
+*Error - 2016-09-11 08:52:46 (Sunday)
+Exception : BugDetected
+[FATAL] The invalidated exception was detected. 
+
+Exception:
+(eval):6: syntax error, unexpected tLBRACK, expecting ')'
+(eval):6: syntax error, unexpected ')', expecting $end
+trace:
+["( WFRGSS共通実行スクリプト )：80:in `rescue in <main>'", "( WFRGSS共通実行スクリプト )：140:in `<main>'", "ruby:in `eval'"]
+*Error - 2016-09-11 09:12:14 (Sunday)
+Exception : BugDetected
+[FATAL] The invalidated exception was detected. 
+
+Exception:
+(eval):6: syntax error, unexpected tLBRACK, expecting ')'
+(eval):6: syntax error, unexpected ')', expecting $end
+trace:
+["( WFRGSS共通実行スクリプト )：80:in `rescue in <main>'", "( WFRGSS共通実行スクリプト )：140:in `<main>'", "ruby:in `eval'"]
